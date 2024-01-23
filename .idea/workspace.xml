@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed2fc0e3-6129-44cd-93e6-3b6e8f1e7dd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Black goose bistro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/duck.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/facebook2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/java.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/lists project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pascal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/pinterest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Follow us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skills.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2aqe9yDruuj5SBMu5ARgnjL6tTu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/emobilis/PycharmProjects/mit/Assets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Assets" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed2fc0e3-6129-44cd-93e6-3b6e8f1e7dd0" name="Changes" comment="" />
+      <created>1705050389415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705050389415</updated>
+      <workItem from="1705050427327" duration="288000" />
+      <workItem from="1705050749516" duration="13000" />
+      <workItem from="1705050776102" duration="142000" />
+      <workItem from="1705050934263" duration="208000" />
+      <workItem from="1705051179701" duration="37000" />
+      <workItem from="1705051236796" duration="72000" />
+      <workItem from="1705051324811" duration="392000" />
+      <workItem from="1705051772293" duration="354000" />
+      <workItem from="1705640861702" duration="849000" />
+      <workItem from="1705641736398" duration="6557000" />
+      <workItem from="1705648820659" duration="2281000" />
+      <workItem from="1705651623928" duration="13000" />
+      <workItem from="1705900503672" duration="2889000" />
+      <workItem from="1705903499063" duration="87000" />
+      <workItem from="1705903607882" duration="561000" />
+      <workItem from="1705987182768" duration="1095000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
